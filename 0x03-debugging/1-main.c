@@ -13,11 +13,11 @@ int main(void)
 
 	i = 0;
 	/*
-	*while (i < 10)
-	*{
-	*	putcher(i);
-	*}
-	*/
+	 * while (i < 10)
+	 * {
+	 * putcher(i);
+	 * }
+	 */
 	printf("Infinite loop avoiede! \\o/\n");
 
 	return (0);
